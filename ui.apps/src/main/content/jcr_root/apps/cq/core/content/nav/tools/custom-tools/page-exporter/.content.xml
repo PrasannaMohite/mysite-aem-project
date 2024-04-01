@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root
+        xmlns:jcr="http://www.jcp.org/jcr/1.0"
+        xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Page Exporter"
+        jcr:description="This is a Page Exporter Utility."
+        id="page-exporter"
+        href="/apps/mysite/custom-tools/page-exporter.html"
+        icon="project"/>
